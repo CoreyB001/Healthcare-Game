@@ -1,0 +1,145 @@
+﻿Category,Behavior,Points
+Food & Drinks,Drink sugary soda,-55
+Food & Drinks,Eat few vegetables,-60
+Food & Drinks,Avoid fruit regularly,-40
+Food & Drinks,Choose refined grains,-40
+Food & Drinks,Eat processed meats,-65
+Food & Drinks,Eat trans fats,-70
+Food & Drinks,Avoid fiber foods,-50
+Food & Drinks,Overconsume added sugar,-70
+Food & Drinks,Eat excessive sodium,-75
+Food & Drinks,Drink sweetened beverages,-60
+Food & Drinks,Eat imbalanced meals,-60
+Food & Drinks,Choose fastfood often,-55
+Food & Drinks,Skip drinking water,-20
+Food & Drinks,Ignore nutrition labels,-10
+Food & Drinks,Choose sugary snacks,-45
+Food & Drinks,Avoid healthy proteins,-50
+Food & Drinks,Eat while distracted,-30
+Food & Drinks,Ignore food spoilage,-80
+Play & Movement,Sit all day,-85
+Play & Movement,Skip active play,-80
+Play & Movement,Avoid muscle activities,-65
+Play & Movement,Neglect balance training,-55
+Play & Movement,Sit uninterrupted hours,-55
+Play & Movement,Avoid everyday walking,-65
+Play & Movement,Exercise through injury,-65
+Play & Movement,Bike across traffic,-85
+Play & Movement,Swim near currents,-95
+Play & Movement,Avoid enjoyable movement,-45
+Play & Movement,Stay indoors inactive,-50
+Play & Movement,Ignore activity advice,-65
+Play & Movement,Skip needed rest,-60
+Play & Movement,Rush difficult activities,-70
+Sleep & Rest,Sleep too little,-85
+Sleep & Rest,Keep irregular bedtimes,-55
+Sleep & Rest,Stay up scrolling,-40
+Sleep & Rest,Use screens overnight,-45
+Sleep & Rest,Drink late caffeine,-40
+Sleep & Rest,Sleep amid noise,-30
+Sleep & Rest,Overheat sleeping area,-25
+Sleep & Rest,Hide sleep troubles,-75
+Sleep & Rest,Hide snoring concerns,-90
+Sleep & Rest,Skip needed recovery,-55
+Feelings & Calm,Skip calming breaks,-75
+Feelings & Calm,Replay worries constantly,-50
+Feelings & Calm,Avoid emotional awareness,-45
+Feelings & Calm,Avoid helpful conversations,-85
+Feelings & Calm,Suppress difficult feelings,-55
+Feelings & Calm,Use unkind selftalk,-50
+Feelings & Calm,Skip recovery breaks,-45
+Feelings & Calm,Avoid restorative breaks,-30
+Feelings & Calm,Focus on negativity,-40
+Feelings & Calm,Choose unsafe coping,-80
+Feelings & Calm,Ignore offered help,-70
+Feelings & Calm,Ignore personal boundaries,-60
+Friends & Family,Avoid supportive friendships,-65
+Friends & Family,Interrupt family talks,-55
+Friends & Family,Avoid community connection,-55
+Friends & Family,Stop meaningful activities,-50
+Friends & Family,Treat friends unkindly,-75
+Friends & Family,Avoid shared experiences,-35
+Friends & Family,Abandon enjoyable hobbies,-40
+Friends & Family,Escalate interpersonal conflict,-65
+Friends & Family,Exclude new classmates,-15
+Friends & Family,Ignore friendly feedback,-35
+Health Checkups,Skip health checkups,-70
+Health Checkups,Ignore vaccine advice,-85
+Health Checkups,Miss health screenings,-75
+Health Checkups,Dismiss health changes,-80
+Health Checkups,Hide health questions,-50
+Health Checkups,Ignore ongoing symptoms,-85
+Health Checkups,Skip dental checkups,-55
+Health Checkups,Ignore vision changes,-65
+Health Checkups,Hide family history,-40
+Health Checkups,Ignore safety reminders,-55
+Health Checkups,Dismiss difficult feelings,-70
+Health Checkups,Ignore hearing changes,-55
+Health Checkups,Overlook play hazards,-65
+Health Checkups,Hide serious symptoms,-95
+Care & Medicine,Ignore medicine directions,-95
+Care & Medicine,Miss medicine refills,-80
+Care & Medicine,Skip medicine labels,-75
+Care & Medicine,Ignore monitoring plans,-85
+Care & Medicine,Lose care instructions,-50
+Care & Medicine,Ignore care plans,-90
+Care & Medicine,Skip asthma plan,-90
+Care & Medicine,Use inhalers incorrectly,-85
+Care & Medicine,Forget emergency medicine,-90
+Care & Medicine,Hide medicine reactions,-95
+Care & Medicine,Miss needed followups,-85
+Care & Medicine,Skip prescribed exercises,-70
+Care & Medicine,Hide new symptoms,-80
+Care & Medicine,Share prescribed medicine,-95
+Air & Safe Choices,Ignore smoke warnings,-75
+Air & Safe Choices,Stay near fumes,-75
+Air & Safe Choices,Enter fume areas,-90
+Air & Safe Choices,Ignore safety warnings,-60
+Air & Safe Choices,Misuse prescribed medicine,-95
+Air & Safe Choices,Drink unidentified liquids,-95
+Air & Safe Choices,Try unknown substances,-100
+Air & Safe Choices,Handle unknown chemicals,-90
+Air & Safe Choices,Ignore strange smells,-80
+Air & Safe Choices,Taste unknown products,-90
+Everyday Safety,Ride without seatbelt,-95
+Everyday Safety,Skip booster seats,-95
+Everyday Safety,Ride without helmet,-85
+Everyday Safety,Distract the driver,-95
+Everyday Safety,Accept unsafe rides,-95
+Everyday Safety,Run across traffic,-100
+Everyday Safety,Ignore smoke alarms,-95
+Everyday Safety,Block emergency exits,-85
+Everyday Safety,Climb unsafe heights,-80
+Everyday Safety,Skip safety drills,-45
+Everyday Safety,Hide serious injuries,-100
+Everyday Safety,Ignore urgent symptoms,-100
+Everyday Safety,Touch dangerous objects,-100
+Everyday Safety,Swim without supervision,-100
+Clean & Healthy,Skip hand washing,-75
+Clean & Healthy,Neglect tooth brushing,-60
+Clean & Healthy,Skip daily flossing,-45
+Clean & Healthy,Cough without covering,-45
+Clean & Healthy,Go out sick,-65
+Clean & Healthy,Ignore food temperatures,-85
+Clean & Healthy,Drink unsafe water,-100
+Clean & Healthy,Skip bathroom washing,-85
+Clean & Healthy,Ignore infected scrapes,-90
+Clean & Healthy,Ignore illness precautions,-90
+Home & Outdoors,Skip sun protection,-70
+Home & Outdoors,Blast loud headphones,-65
+Home & Outdoors,Skip protective gear,-90
+Home & Outdoors,Ignore stuffy rooms,-55
+Home & Outdoors,Play near fumes,-80
+Home & Outdoors,Ignore indoor hazards,-70
+Home & Outdoors,Leave floors cluttered,-80
+Home & Outdoors,Skip weather layers,-15
+Home & Outdoors,Lift objects recklessly,-60
+Home & Outdoors,Ignore heat warnings,-95
+Digital Wellbeing,Scroll without breaks,-40
+Digital Wellbeing,Share private passwords,-70
+Digital Wellbeing,Post personal information,-85
+Digital Wellbeing,Send hurtful messages,-70
+Digital Wellbeing,Encourage online bullying,-75
+Digital Wellbeing,Click suspicious links,-80
+Digital Wellbeing,Skip screen limits,-45
+Digital Wellbeing,Message unknown strangers,-85
